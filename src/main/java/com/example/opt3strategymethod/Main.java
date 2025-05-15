@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Game spel = new Game();
 
-        System.out.println("Welkom bij Scrum Escape Building!");
+        System.out.println("Welkomm bij Scrum Escape Building!");
         System.out.println("Typ 'status' om je voortgang te zien.");
         System.out.println("Typ 'ga naar kamer [nummer]' om een kamer te betreden.");
         System.out.println("Typ 'stop' om het spel af te sluiten.");
