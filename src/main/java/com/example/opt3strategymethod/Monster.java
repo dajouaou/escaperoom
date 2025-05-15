@@ -8,7 +8,7 @@ public class Monster {
     }
 
     public void versperWeg() {
-        gedrag.reageer(); // Strategy Pattern: gedraggggg via interface
+        gedrag.reageer(); // Strategy Pattern: gedragee via interface
     }
 
     public String getNaam() {
